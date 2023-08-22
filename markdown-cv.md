@@ -11,8 +11,8 @@
  # Education 
  * Studied computer engineering in liu university. 
  * studied car mechanics in bir hassan institue.
- 
-  
+
+
  # Skills 
  * Fast Learning 
  * collaboration 
@@ -25,3 +25,10 @@
  # Languages 
  * Arabic 
  * English
+
+
+ # Certifications
+ * Freecodecamp Resposive webdesign
+
+![alisaghir](20211204_101947.jpg)
+
